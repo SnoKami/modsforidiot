@@ -14,3 +14,4 @@ curl https://github.com/SnoKami/modsforidiot/raw/main/fabric-api-0.58.0%2B1.18.2
 curl https://github.com/SnoKami/modsforidiot/raw/main/flytre_lib-1.18.2-1.8.1-fabric.jar -O %APPDATA%\.minecraft\mods\flytre_lib-1.18.2-1.8.1-fabric.jar
 curl https://github.com/SnoKami/modsforidiot/raw/main/medievalweapons-1.2.0.jar -O %APPDATA%\.minecraft\mods\medievalweapons-1.2.0.jar
 curl https://github.com/SnoKami/modsforidiot/raw/main/waystones-fabric-1.18.2-10.1.0.jar -O %APPDATA%\.minecraft\mods\waystones-fabric-1.18.2-10.1.0.jar
+curl https://github.com/SnoKami/modsforidiot/raw/main/create-1.18.2-0.5.0c-708.jar -O %APPDATA%\.minecraft\mods\create-1.18.2-0.5.0c-708.jar
