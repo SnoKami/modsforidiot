@@ -15,3 +15,4 @@ curl https://github.com/SnoKami/modsforidiot/raw/main/flytre_lib-1.18.2-1.8.1-fa
 curl https://github.com/SnoKami/modsforidiot/raw/main/medievalweapons-1.2.0.jar -O %APPDATA%\.minecraft\mods\medievalweapons-1.2.0.jar
 curl https://github.com/SnoKami/modsforidiot/raw/main/waystones-fabric-1.18.2-10.1.0.jar -O %APPDATA%\.minecraft\mods\waystones-fabric-1.18.2-10.1.0.jar
 curl https://github.com/SnoKami/modsforidiot/raw/main/create-1.18.2-0.5.0c-708.jar -O %APPDATA%\.minecraft\mods\create-1.18.2-0.5.0c-708.jar
+curl https://github.com/SnoKami/modsforidiot/raw/main/ftb-chunks-fabric-1802.3.6-build.145.jar -O %APPDATA%\.minecraft\mods\ftb-chunks-fabric-1802.3.6-build.145.jar
